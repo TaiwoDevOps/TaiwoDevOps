@@ -5,7 +5,7 @@ I'm Adisa Taiwo Joshua (.jta)
 # 💫About Me :
 -🫡 Experienced Software Engineer.
 
--💬Ask me about Flutter, React-native, React.js, Kotlin and AI related stuff
+-💬Ask me about Cross-Native Mobile App Development, Full-Stack and AI related stuff
 
 -📖 Always a learner
 
